@@ -9,3 +9,4 @@ export function Table(props: TableProps) {
     </div>
   )
 }
+{/* Não da pra colocar borda arredondada em tabela, então colocamos a tabela numa div e o arredondamento na div */}
