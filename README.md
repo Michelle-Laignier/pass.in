@@ -13,7 +13,7 @@ Os dados são fictícios, usando [Faker.js](<https://fakerjs.dev/>) <br>
 - [Lucide](<https://lucide.dev/>) <br>
 - [Day.js](<https://www.npmjs.com/package/dayjs>) <br>
 
-## Layout final
+## Layout final &#127912;
 Alterei alguns detalhes visuais do [projeto original](<https://www.figma.com/file/yFWzn4Rl5GWzE1gi12tY0j/pass.in-(Community)?type=design&node-id=2007-1477&mode=design>). <br>
 
 <img src="./public/projectImg.png" alt="pass.in">
